@@ -7,7 +7,9 @@ O projeto tem como objetivo explorar conceitos de animações tridimensionais, t
 
 ## 🖥️ Prévia do projeto
 
-![Prévia do Flip Card Smartphone](img/previewFlipCard.png)
+<p align="center">
+  <img src="img/previewFlipCard.png" alt="Prévia do Flip Card Smartphone" width="900">
+</p>
 
 🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto2Proa-FlipCardSmartphone/)**
 
